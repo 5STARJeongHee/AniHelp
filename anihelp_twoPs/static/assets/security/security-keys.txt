@@ -1,0 +1,9 @@
+{
+    "SECRET_KEY" : "django-insecure-=x37lthypbbq=^zxf^94e%rho_(2s64t(m0f_ijyix&&no1ns(",
+    "api_id" : "be7mau2rjj",
+    "api_secret" : "Ex53a6xsx9WXeTIlJ72NlNQ3vcs3cFAX4yxjoPZF",
+    "allowed_hosts" : [
+        
+    ]    
+
+}
